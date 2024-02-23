@@ -30,5 +30,7 @@ Hello, I'm João Gabriel, a Software Engineer with a degree from the University 
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
+            <img width="48" width="32" src="https://cdn.simpleicons.org/angular/dd1b16" />
+            <img width="48" width="32" src="https://cdn.simpleicons.org/vuedotjs/34495E " />
         </p>
     </div>
