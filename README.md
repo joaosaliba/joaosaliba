@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jgsaliba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgsaliba/)](https://www.linkedin.com/in/jgsaliba/)
 
 
-Hello, I'm João Gabriel, a Software Engineer with a degree from the University of Brasilia. I specialize in various technologies, including Java, Python, Node, Docker, and Jenkins. These skills cover a wide range of areas, from programming languages to containerization (Docker) and continuous integration (CI/CD).
+Hello, I'm João Gabriel, a Software Engineer with a degree from the University of Brasilia. I specialize in Java, Python, Node, Docker, and Jenkins. These skills cover a wide range of areas, from programming languages to containerization (Docker) and continuous integration (CI/CD).
 
 
 <a> 
